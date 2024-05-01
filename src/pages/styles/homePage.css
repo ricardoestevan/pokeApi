@@ -1,0 +1,38 @@
+
+
+h1,
+h2{
+    margin-top: 50px;
+    font-size: 50px;
+    text-align: center;
+    
+}
+form{
+    margin-top: 20px;
+    font-size: 50px;
+}
+  
+button{
+    background-color: #1565c1; 
+    border: none;
+    color: white;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    /* display: inline-block; */
+    font-size: 20px;
+}
+.hp__main{
+ 
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.hp__img{
+    margin-top: -3px;
+    background-position: center;
+    background-size: cover;
+    object-fit:fill;
+}
